@@ -1,0 +1,17 @@
+RESTAPI - JSON
+
+GET /users - HTML Document render
+GET /api/users - List all users JSON - done
+
+GET api/users/1 - get the user with ID 1
+GET api/users/2 - get the user with ID 2
+
+POST api/users - create new user
+
+PATCH api/users/1 - edit the user with ID 1
+
+DELETE api/users/1 - Delete the user with ID 1
+
+
+//how to connect the mongoose file
+https://luqmanshaban.medium.com/mastering-the-connection-a-step-by-step-guide-to-linking-node-js-and-mongodb-atlas-with-mongoose-3941cfbbc2c7#:~:text=Inside%20the%20function%2C%20there%20is,connectionString%20and%20an%20options%20object.

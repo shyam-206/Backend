@@ -1,0 +1,2 @@
+1712147667588: GET /signup? New Req Received 
+1712148133410: GET / New Req Received 
